@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @miles-nash
+👋 Hi, I’m @miles-nash
+
+An Electrical Engineering and Computer Science student at UC Berkeley
+
 - 👀 I’m interested in IoT projects, the intersection of Hardware and Software, and leading innovative teams
 - 🌱 I’m currently learning Web Design and Software Development
 - 💞️ I’m looking to collaborate on Any and all awesome projects
