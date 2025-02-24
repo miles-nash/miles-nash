@@ -9,7 +9,6 @@ An Electrical Engineering and Computer Science student at UC Berkeley
 
 Website:
 
-www.miles-nash.com
 
 <!---
 miles-nash/miles-nash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
